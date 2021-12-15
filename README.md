@@ -1,3 +1,2 @@
-server 5
-Client 3
+servver
 
