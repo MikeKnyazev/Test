@@ -1,3 +1,3 @@
-server 66
+server 66 1
 Client 3
 
